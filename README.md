@@ -1,4 +1,4 @@
-# Case study for Invent Analytics
+# Case study for ------------
 
 
 ## Steps
